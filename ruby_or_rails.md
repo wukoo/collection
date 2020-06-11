@@ -13,6 +13,9 @@ https://womanonrails.com/each-with-object
 ## some_objects.each(&:foo)
 https://stackoverflow.com/questions/1961030/ruby-ampersand-colon-shortcut
 
+## Hash 的 Default Value 如果是数组之类的不固定值会怎样
+https://medium.com/@jinghua.shih/ruby-hash-%E7%9A%84-default-value-1d29a8ecd398
+
 
 
 # rails
